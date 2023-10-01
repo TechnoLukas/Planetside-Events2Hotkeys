@@ -1,6 +1,7 @@
 # PlanetsideEvents2Hotkeys
 
 DOWNLOAD => https://luklev.itch.io/planetside-events2hotkeys
+On itch.io i already put my service id. There is no service id in source code here :)
  
 <p><strong><span style="font-size:20px">About:</span></strong></p>
 <p><span style="font-size:16px">This tool allows you to automaticly clip your gameplay in planetside2. You need your recording software setup with hotkey to clip.</span></p>
