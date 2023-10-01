@@ -34,8 +34,8 @@ On itch.io i already put my service id. There is no service id in source code he
 
 <ul>
 	<li><span style="font-size:16px">OBS websocket support</span></li>
-	<li><span style="font-size:16px">Tank kills</span></li>
-	<li><span style="font-size:16px">Air kills</span></li>
+	<li><span style="font-size:16px">Tank destroy</span></li>
+	<li><span style="font-size:16px">Air destroy</span></li>
 </ul>
 
 <p><strong><span style="font-size:20px">Contributors:</span></strong></p>
